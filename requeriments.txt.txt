@@ -1,0 +1,15 @@
+# Paquetes usados
+! pip install arch
+! pip install pmdarima
+# librerias
+import numpy as np, pandas as pd
+import matplotlib.pyplot as plt
+from scipy.stats import jarque_bera
+from arch.unitroot import PhillipsPerron , KPSS , ADF
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+from statsmodels.tsa.arima_model import ARIMA
+from statsmodels.tsa.statespace.sarimax import SARIMAX
+import plotly.graph_objs as go
+from plotly.subplots import make_subplots
+from statsmodels.tools.eval_measures import rmse ,mse
+from pmdarima import auto_arima
