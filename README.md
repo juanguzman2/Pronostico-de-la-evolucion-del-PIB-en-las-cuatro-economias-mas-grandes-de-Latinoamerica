@@ -13,9 +13,9 @@ El proyecto se organiza en los siguientes pasos:
 
 ## Archivos del proyecto
 El proyecto se organiza en los siguientes archivos:
-•	datos/gdpe.xls: archivo con los datos históricos del PIB de todos los paises desde 1960 hasta 2021.
-•	piblatam.ipynb: archivo Jupyter Notebook con el código Python que implementa los análisis y modelos econométricos del proyecto.
-•	README.md: archivo Markdown que describe el proyecto y su estructura.
+*	datos/gdpe.xls: archivo con los datos históricos del PIB de todos los paises desde 1960 hasta 2021.
+*	piblatam.ipynb: archivo Jupyter Notebook con el código Python que implementa los análisis y modelos econométricos del proyecto.
+*	README.md: archivo Markdown que describe el proyecto y su estructura.
 Requisitos del proyecto
 
 
