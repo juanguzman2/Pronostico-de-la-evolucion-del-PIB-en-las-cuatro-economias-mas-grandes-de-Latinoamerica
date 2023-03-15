@@ -36,3 +36,9 @@ ALgunas graficas no se muestran directamente. Si no desea ejecutar el codigo com
 ## Autor
 
 Juan Esteban Guzman Saldarriaga
+
+### Contacto
+
+linkedin : www.linkedin.com/in/juan-guzmans
+Celular: 3023060210
+Correo : sojuanesi4@gmail.com
