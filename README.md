@@ -33,4 +33,6 @@ En general, se puede concluir que la evoluci√≥n del PIB en Argentina, Brasil, M√
 
 ALgunas graficas no se muestran directamente. Si no desea ejecutar el codigo completo puede dirigirse al link que hay debajo del codigo de la grafica. Disculpe las molestias
 
+## Autor
 
+Juan Esteban Guzman Saldarriaga
