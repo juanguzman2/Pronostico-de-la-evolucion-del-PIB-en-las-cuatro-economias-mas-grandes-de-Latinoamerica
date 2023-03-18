@@ -29,8 +29,18 @@ El análisis y modelado de la evolución del PIB en las cuatro economías más g
 
 En general, se puede concluir que la evolución del PIB en Argentina, Brasil, México y Colombia está estrechamente relacionada con factores macroeconómicos y políticos, así como con las condiciones globales del mercado. Sin embargo, los modelos econométricos utilizados en este proyecto permiten una buena aproximación de la evolución del PIB, y pueden ser una herramienta útil para la toma de decisiones.
 
-## Consideracion
+## Consideración
 
 ALgunas graficas no se muestran directamente. Si no desea ejecutar el codigo completo puede dirigirse al link que hay debajo del codigo de la grafica. Disculpe las molestias
 
+## Autor
 
+Juan Esteban Guzman Saldarriaga
+
+### Contacto
+
+linkedin : www.linkedin.com/in/juan-guzmans
+
+Celular: 3023060210
+
+Correo : sojuanesi4@gmail.com
