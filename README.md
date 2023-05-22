@@ -23,7 +23,7 @@ Requisitos del proyecto
 
 En la siguiente graficas e mostrata la evolucion del PIB para las principales 4 economias durante el tiempo
 
-![pib_inicial]()
+![pib_inicial](https://github.com/juanguzman2/Pronostico-de-la-evolucion-del-PIB-en-las-cuatro-economias-mas-grandes-de-Latinoamerica/blob/master/Imagenes/plotPIBcompleto.png?raw=true)
 
 ## Modelado econométrico
 
@@ -36,7 +36,9 @@ Se recomienda aplicar una diferencia de primer orden en la serie de tiempo para 
 
 Otro metodo para observar la estacionariedad es mediante la grafica PACF y ACF que se muestran a continuacion:
 
-![acf_pacf]()
+![acf_pacf](https://github.com/juanguzman2/Pronostico-de-la-evolucion-del-PIB-en-las-cuatro-economias-mas-grandes-de-Latinoamerica/blob/master/Imagenes/acf_pacf.png?raw=true)
+
+De la grafica tambien podemos observar que las series de tiempo no son estacionarias
 
 ## Validación y comparación de modelos
 
